@@ -20,9 +20,7 @@ Users can **add**, **edit**, **delete**, and **mark tasks as completed**, with d
 
 ### 🔗 Live Demo
 
-👉 [**Click Here to View the Project**](https://yourusername.github.io/Dynamic-To-Do-List-App/)
-*(Replace this link with your actual GitHub Pages URL once deployed)*
-
+👉 https://nooramir893.github.io/TO-DO-LIST-APP/
 ---
 
 ### 🧰 Tech Stack
@@ -69,6 +67,3 @@ Hands-on experience with **JavaScript-based interactivity**, **state management*
 > 💬 “Turning logic into interactive design — one task at a time.”
 
 ---
-
-Would you like me to write a **LinkedIn caption/post** announcing this Task 2 completion (like the one you did for Task 1)?
-I can make it engaging, professional, and algorithm-optimized for visibility.
