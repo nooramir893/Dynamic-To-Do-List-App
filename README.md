@@ -20,7 +20,7 @@ Users can **add**, **edit**, **delete**, and **mark tasks as completed**, with d
 
 ### 🔗 Live Demo
 
-👉 https://nooramir893.github.io/TO-DO-LIST-APP/
+👉 https://nooramir893.github.io/DYNAMIC-TO-DO-LIST-APP/
 ---
 
 ### 🧰 Tech Stack
